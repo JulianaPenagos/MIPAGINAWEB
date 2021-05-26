@@ -3,7 +3,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(Fondo.jpg);   
+    background: url(https://fondosmil.com/fondo/23242.jpg);   
     background-size: cover;
     background-position: center;
     font-family: sans-serif; 
@@ -21,18 +21,18 @@ h3{
 }
 h4{
     font-family: 'Courier New', Courier, monospace;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     text-align: left;
 
 }
 p{
     font-family: 'Courier New', Courier, monospace;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     text-align: center;
 }
 li{
     font-family: 'Courier New', Courier, monospace;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     text-align: left;
 }
 .TID {
