@@ -21,18 +21,18 @@ h3{
 }
 h4{
     font-family: 'Courier New', Courier, monospace;
-    color:white;
+    color:rgb(0, 0, 0);
     text-align: left;
 
 }
 p{
     font-family: 'Courier New', Courier, monospace;
-    color:white;
+    color:rgb(0, 0, 0);
     text-align: center;
 }
 li{
     font-family: 'Courier New', Courier, monospace;
-    color:white;
+    color:rgb(0, 0, 0);
     text-align: left;
 }
 .TID {
